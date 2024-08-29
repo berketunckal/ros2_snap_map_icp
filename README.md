@@ -96,4 +96,4 @@ ros2 run snap_map_icp snap_map
 ```
 
 
-## This project forked from https://github.com/code-iai/snap_map_icp .
+## This is a fork of the discontinued code at https://github.com/code-iai/snap_map_icp .
