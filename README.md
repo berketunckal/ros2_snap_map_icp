@@ -91,5 +91,9 @@ Other important functions in the node include:
 
 You can run the node with the following command:
 
-```bash
-ros2 run snap_map_icp icp_localization_node
+```
+ros2 run snap_map_icp snap_map
+```
+
+
+## This project forked from https://github.com/code-iai/snap_map_icp .
